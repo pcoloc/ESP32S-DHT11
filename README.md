@@ -1,4 +1,9 @@
 # ESP32S-DHT11
+
+## WebServer
+![Captura de pantalla de 2022-01-05 23-41-00](https://user-images.githubusercontent.com/38069658/148300115-61cc20d7-b001-460c-8561-561b0134347d.png)
+
+
 Placa ESP-WROOM-32 con el sensor DHT11 en el módulo KY-015
 
 ![image](https://user-images.githubusercontent.com/38069658/148299181-2ea23999-162b-4e18-b3c7-337493bd113a.png)
